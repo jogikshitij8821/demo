@@ -1,0 +1,29 @@
+.campaign-name {
+    display: -webkit-box;
+    -webkit-line-clamp: 1; 
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;  
+  }
+   .campaign-image {
+    height: 200px;
+    object-fit: cover;
+    width: 100%;  
+  }
+  .campaign-name-bold {
+    font-weight: bold;
+    font-size: large;
+  }
+  .badge-large {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+  }
+  .description {
+    max-height: 2em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    transition: max-height 0.5s;
+  }
+    

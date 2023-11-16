@@ -1,0 +1,7 @@
+.gray-button {
+    background-color: gray;
+    pointer-events: none; /* Disable click events */
+    cursor: not-allowed; /* Change the cursor to indicate it's disabled */
+    color: #fff; /* Set text color to white or your preferred style */
+  }
+  

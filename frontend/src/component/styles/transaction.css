@@ -1,0 +1,24 @@
+/* TransactionHistory.css */
+.transaction-grid {
+  max-height: 560px;
+  overflow-y: auto;
+}
+
+/* Style the p tag for "No transaction history found." message */
+.no-transaction-message {
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  padding: 20px;
+  text-align: center;
+}
+
+.transaction-history-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1480px;
+  height: 100vh;
+  margin: 50px;
+
+
+}

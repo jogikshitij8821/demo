@@ -1,0 +1,41 @@
+/* Header.css */
+
+.brand-text {
+  font-weight: bold;
+  color: green;
+  font-size: 48px;
+
+}
+
+/* Style for the navigation dropdown button */
+.nav-dropdown {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+/* Style for the user icon in the navigation dropdown */
+.user-icon {
+  font-size: 24px;
+}
+
+/* Style for the login and signup links in the dropdown menu */
+.dropdown-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #333;
+  margin: 2px;
+}
+
+/* Style for the user icon next to the login and signup links */
+.user-icon-link {
+  margin-right: 10px;
+
+}
+
+.dropdown-link:hover {
+  background-color: blue;
+  color: white;
+  /* Change the text color for better contrast */
+}

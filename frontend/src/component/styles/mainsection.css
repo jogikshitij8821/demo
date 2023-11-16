@@ -1,0 +1,143 @@
+ body {
+   font-family: Arial, sans-serif;
+ }
+
+ .left-column {
+   background-color: #ffffff;
+   padding: 20px;
+   font-size: 24px;
+   font-weight: bold;
+ }
+
+ .main-text {
+   font-size: 34px;
+   font-weight: bold;
+   color: brown;
+ }
+
+
+ .middle-column {
+   font-size: 18px;
+   line-height: 1.5;
+ }
+
+ .right-column img {
+   max-width: 100%;
+   height: auto;
+ }
+
+
+
+ .img-fluid {
+   max-width: 100%;
+   height: auto;
+ }
+
+ .main {
+   background: url('https://www.your-image-url.com');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-color: brown;
+   width: 100vw;
+   height: 50px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: white;
+   font-size: 24px;
+   text-align: center;
+ }
+
+
+ ul {
+   list-style-type: square;
+   margin-left: 20px;
+ }
+
+
+ .col-md-6.order-md-1 img {
+   max-width: 100%;
+   height: auto;
+
+ }
+
+
+ .mt-5 {
+   margin-top: 5px;
+ }
+
+ .facing-challenges {
+   background-color: #ffffff;
+   padding: 20px;
+   font-size: 24px;
+   font-weight: bold;
+ }
+
+
+ .facing-challenges ul {
+   list-style-type: square;
+   margin-left: 20px;
+ }
+
+
+ .financial-image {
+   max-width: 50%;
+   height: auto;
+   display: block;
+   margin: 0 auto;
+ }
+
+ .text-center {
+   background-color: #ffffff;
+   padding: 20px;
+   font-size: 24px;
+   font-weight: bold;
+ }
+
+
+ .mt-5 {
+   margin-top: 5px;
+ }
+
+
+ .col-md-6 {
+   font-size: 35px;
+   line-height: 1.5;
+   padding: 30px;
+
+ }
+
+
+ .custom-list {
+   font-size: 20px;
+   padding: 20px;
+ }
+
+
+ .custom-list li {
+   font-size: 20px;
+   margin-bottom: 10px;
+ }
+
+ .main-text {
+   font-size: 24px;
+   font-weight: bold;
+ }
+
+
+ .sub-text {
+   font-size: 20px;
+ }
+
+
+ .mt-5 {
+   margin-top: 5px;
+   font-size: 20px;
+   font-weight: bold;
+ }
+
+
+ .step {
+   font-size: 18px;
+   line-height: 1.5;
+ }

@@ -1,0 +1,56 @@
+/* styles.css */
+
+.main-title {
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+  }
+  
+  .main-description {
+    color: black;
+    font-size: 20px;
+    line-height: 1.5;
+    max-width: 100%;
+    font-family: Arial, sans-serif;
+  }
+  
+  .main-banner {
+    background: url(https://www.your-image-url.com);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: brown;
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .feature-text {
+    color: white;
+    font-size: 24px;
+  }
+  
+  .main-content {
+    background-color: white;
+    padding: 20px;
+  }
+  
+  .sub-title {
+    color: black;
+    font-size: 22px;
+    font-weight: light;
+    font-family: Arial, sans-serif;
+  }
+  
+  .sub-description {
+    color: black;
+    font-size: 16px;
+    line-height: 1.5;
+    max-width: 100%;
+    font-family: Arial, sans-serif;
+  }

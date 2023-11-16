@@ -1,0 +1,27 @@
+/* CircularProgressBar.css */
+
+.circular-progress-container {
+    display: flex;
+    align-items: center;
+  }
+
+  .circular-progress-bar {
+    width: 50px;
+  }
+
+  .circular-progress-text {
+    margin-left: 10px;
+  }
+  
+  .circular-progress-bar-path {
+    stroke: #3e98c7;
+  }
+  
+  .circular-progress-bar-text {
+    fill: #000;
+  }
+  
+  .circular-progress-bar-trail {
+    stroke: #d6d6d6;
+  }
+  

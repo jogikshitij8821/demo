@@ -1,0 +1,77 @@
+ .donation-button {
+   align-items: center;
+ }
+
+ .description {
+   max-height: 2em;
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+   transition: max-height 0.5s;
+ }
+
+
+
+ .campaign-name-bold {
+   font-weight: bold;
+   font-size: large;
+ }
+
+ .description {
+   max-height: 2em;
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+   transition: max-height 0.5s;
+ }
+
+
+ .truncate-text {
+   white-space: nowrap;
+   overflow: hidden;
+   text-overflow: ellipsis;
+ }
+
+ .full-description {
+   display: none;
+ }
+
+ .description {
+   max-height: 2em;
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+   transition: max-height 0.5s;
+ }
+
+ .pagination {
+   display: flex;
+   justify-content: flex-end;
+   margin-top: 20px;
+ }
+
+ .pagination a,
+ .pagination li.previous,
+ .pagination li.next,
+ .pagination li.break {
+   font-size: 16px;
+   margin: 0 5px;
+   padding: 8px 12px;
+   background-color: #fff;
+   color: #000;
+   border: none;
+   border-radius: 4px;
+   text-decoration: none;
+ }
+
+ .pagination li.active a {
+   background-color: #000;
+   color: #fff;
+ }
+
+ .pagination a:hover,
+ .pagination li.previous:hover,
+ .pagination li.next:hover {
+   background-color: #000;
+   color: #fff;
+ }

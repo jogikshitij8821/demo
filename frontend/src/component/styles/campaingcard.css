@@ -1,0 +1,38 @@
+.campaign-name {
+    display: -webkit-box;
+    -webkit-line-clamp: 1; 
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;  
+  }
+   .campaign-image {
+    height: 200px;
+    object-fit: cover;
+    width: 100%;  
+  }
+  .campaign-name-bold {
+    font-weight: bold;
+    font-size: large;
+  }
+  .badge-large {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+  }
+  .description {
+    max-height: 2em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    transition: max-height 0.5s;
+  }
+  
+
+.card-shadow {
+  box-shadow: 4px 4px 4px 0 hwb(120 7% 92% / 0.2);
+  transition: 0.5s;
+}
+
+.card-shadow:hover {
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
+}

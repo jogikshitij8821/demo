@@ -1,0 +1,43 @@
+ .custom-carousel {
+   background-color: #f5fff5;
+   /* Light green background color */
+   padding: 20px;
+   /* Add some padding for spacing */
+ }
+
+ .custom-card {
+   border: none;
+   /* Remove card borders */
+   border-radius: 10px;
+   /* Add a slight border radius */
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   /* Add a subtle box shadow */
+   margin: 0 auto;
+   /* Center the cards horizontally */
+ }
+
+ .custom-card .card-title {
+   font-weight: bold;
+   /* Make the title bold */
+   color: #333;
+   /* Dark text color */
+ }
+
+ .custom-card .card-text {
+   color: #555;
+   /* Slightly darker text color */
+ }
+
+ .rating {
+   margin-top: 10px;
+   /* Add some space above the stars */
+   font-size: 24px;
+   /* Increase the star size */
+   color: #4caf50;
+   /* Light green color for stars */
+ }
+
+ .star {
+   margin-right: 5px;
+   /* Space between stars */
+ }

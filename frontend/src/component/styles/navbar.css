@@ -1,0 +1,4 @@
+/* Custom CSS rule to set a black shadow */
+.navbar-shadow {
+    box-shadow: 3px 2px 6px 6px rgba(7, 7, 7, 0.2), 0 2px 10px 0 rgba(11, 5, 5, 0.15);
+}

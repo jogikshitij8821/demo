@@ -1,0 +1,17 @@
+
+.seva-heading {
+    font-family: 'YourCustomFont', sans-serif; /* Replace 'YourCustomFont' with the actual font you want to use */
+    font-size: 36px; /* Adjust the font size as needed */
+    color: #4caf50; /* Light green color */
+    text-align: left; /* Center the text horizontally */
+    text-transform: uppercase; /* Uppercase the text */
+    letter-spacing: 2px; /* Add letter spacing for style */
+    margin-top: 20px; /* Add top margin for spacing */
+  }
+  
+  /* Add this to your CSS file, e.g., custom.css */
+.image-container {
+  background-image: url('https://img.freepik.com/premium-vector/illustration-vector-graphic-cartoon-character-share-donations_516790-368.jpg');
+  background-size: cover;
+  background-blend-mode: lighten;
+}
